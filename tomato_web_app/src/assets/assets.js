@@ -47,9 +47,9 @@ import food_32 from "./food_32-BKt-jRyi.png";
 
 import header_img from "./header_img.png";
 import rating_starts from "./rating.png";
-import add_icon_green from "./tick.png";
+import add_icon_green from "./plus.png";
 import add_icon_white from "./nontransparentplus.png";
-import remove_icon_red from "./close.png";
+import remove_icon_red from "./delete.png";
 import app_store from "./app_store-C8O_cY6s.png";
 import play_store from "./play_store-B2tFv0Hy.png";
 import linkedin_icon from "./linkedin.png";
