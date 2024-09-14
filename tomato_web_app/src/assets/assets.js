@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import basket_icon from "./basket.png";
 import logo from "./Tomato.png";
 import search_icon from "./search.png";
@@ -122,7 +122,7 @@ export const menu_list = [
 export const food_list = [
   {
     _id: "1",
-    name: "Greee=k salad",
+    name: "Greek salad",
     image: food_1,
     price: 12,
     description:
@@ -136,169 +136,169 @@ export const food_list = [
     price: 18,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "Veggies",
+    category: "salad",
   },
   {
     _id: "3",
-    name: "ope",
+    name: "clover salad",
     image: food_3,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "salad",
   },
   {
     _id: "4",
-    name: "ope",
+    name: "chicken salad",
     image: food_4,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "salad",
   },
   {
     _id: "5",
-    name: "ope",
+    name: "Lasagna Rolls",
     image: food_5,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Rolls",
   },
   {
     _id: "6",
-    name: "ope",
+    name: "Peri Peri Rolls",
     image: food_6,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Rolls",
   },
   {
     _id: "7",
-    name: "ope",
+    name: "Chicken Rolls",
     image: food_7,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Rolls",
   },
   {
     _id: "8",
-    name: "ope",
+    name: "Veg Rolls",
     image: food_8,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Rolls",
   },
   {
     _id: "9",
-    name: "ope",
+    name: "Ripple Ice Cream",
     image: food_9,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Desert",
   },
   {
     _id: "10",
-    name: "ope",
+    name: "Fruit Ice Cream",
     image: food_10,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Deserts",
   },
   {
     _id: "11",
-    name: "ope",
+    name: "Jar Ice Cream",
     image: food_11,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Deserts",
   },
   {
     _id: "12",
-    name: "ope",
+    name: "Vanilla Ice Cream",
     image: food_12,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Deserts",
   },
   {
     _id: "13",
-    name: "ope",
+    name: "Chicken Sandwich",
     image: food_13,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Sandwich",
   },
   {
     _id: "14",
-    name: "ope",
+    name: "Vegan Sandwich",
     image: food_14,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Sandwich",
   },
   {
     _id: "15",
-    name: "ope",
+    name: "Grilled Sandwich",
     image: food_15,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Sandwich",
   },
   {
     _id: "16",
-    name: "ope",
+    name: "Bread Sandwich",
     image: food_16,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Sandwich",
   },
   {
     _id: "17",
-    name: "ope",
+    name: "Cup Cake",
     image: food_17,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Cake",
   },
   {
     _id: "18",
-    name: "ope",
+    name: "Vegan Cake",
     image: food_18,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Cake",
   },
   {
     _id: "19",
-    name: "ope",
+    name: "Butterscotch Cake",
     image: food_19,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Cake",
   },
   {
     _id: "20",
-    name: "ope",
+    name: "Sliced Cake",
     image: food_20,
     price: 24,
     description:
       "Food provides essential nutrients for overall health and well-being",
-    category: "ope",
+    category: "Cake",
   },
   {
     _id: "21",
