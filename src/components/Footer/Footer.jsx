@@ -9,10 +9,7 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            optio iure excepturi consequuntur recusandae, soluta quos obcaecati
-            esse unde repellat. Id nihil voluptas, cumque ut quaerat pariatur ea
-            reprehenderit animi?
+          Follow us on our social media channels for the latest news, special offers, mouthwatering recipes, and behind-the-scenes glimpses of our tomato creations. Join the conversation and share your love for all things tomato!
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
